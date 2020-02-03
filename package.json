@@ -81,7 +81,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^7.7.3",
-    "ember-compatibility-helpers": "^1.2.0",
+    "ember-compatibility-helpers": "https://github.com/DanielGroeger/ember-compatibility-helpers.git#7a22c0b",
     "ember-maybe-import-regenerator": "^0.1.6"
   },
   "resolutions": {
